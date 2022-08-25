@@ -2,6 +2,8 @@ import React from "react";
 import { AiFillGithub, AiFillInstagram} from "react-icons/ai";
 import { MdEmail } from "react-icons/md";
 import { FaLinkedinIn } from "react-icons/fa";
+import { FaFacebook } from "react-icons/fa";
+
 
 function SocialMedia() {
 
@@ -19,7 +21,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://www.linkedin.com/feed/"
+          href="https://www.linkedin.com/in/nnadi-nnamdi-raymond-972abb234/"
           target="_blank"
           rel="namdinnadi noreferrer"
           className="icon-colour  home-social-icons"
@@ -28,10 +30,21 @@ function SocialMedia() {
         </a>
       </li>
 
+      <li className="social-icons">
+        <a
+          href="https://www.facebook.com/nnamdi.raymond.1/"
+          target="_blank"
+          rel="namdinnadi noreferrer"
+          className="icon-colour  home-social-icons"
+        >
+          <FaFacebook className="social-icon" />
+        </a>
+      </li>
+
       
       <li className="social-icons">
         <a
-          href="https://www.instagram.com/?hl=en"
+          href="https://www.instagram.com/raymond_nnamdi/?hl=en"
           target="_blank"
           rel="nnamdinnadi noreferrer"
           className="icon-colour home-social-icons"
@@ -41,7 +54,7 @@ function SocialMedia() {
       </li>
       <li className="social-icons">
         <a
-          href="https://mail.google.com/mail/u/0/#inbox"
+          href="mailto:nnamdi.raymondoct@gmail.com"
           target="_blank"
           rel="nnamdinnadi noreferrer"
           className="icon-colour home-social-icons"
