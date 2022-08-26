@@ -17,11 +17,11 @@ export const PROJECTS = [
     name: "My Portfolio Website",
     technologyUsed: "ReactJs, JavaScript, Bootstrap",
     description: "Personal Portfolio Website, develeoped with React, Bootstrap and Html.",
-    url: "https://netlify-natoraymond.vercel.app/",
+    url: "https://nnamdi-cv-natoraymond.vercel.app/",
   },
   {
     image: DOLIST,
-    name: "do List App",
+    name: "Do List App",
     technologyUsed: "ReactJs, Javascript, Firebase",
     description: "This project described DOLIST  in firebase using react javascrip library.",
     url: "https://react-firebase-crud-lofuu0dg1-natoraymond.vercel.app/",
