@@ -10,7 +10,7 @@ export const PROJECTS = [
     name: "magicstore",
     technologyUsed: "ReactJs, JavaScript, Bootstrap, Firebase",
     description: "E-commerce shop, just like Amazon, I used FireStore to Manage collections and FirebaseAuth for user authentication",
-    url: "https://maagicstore.netlify.app/",
+    url: "https://magicstore-amazon-app.vercel.app/",
   },
   {
     image: DEVEL,
